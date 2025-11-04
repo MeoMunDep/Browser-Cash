@@ -226,10 +226,7 @@ docker run -d --name browsercash-container browsercash-image
 
 ⚠️ **Disclaimer**: This code is provided "as is" without any warranties. Use it at your own risk. You are solely responsible for any consequences arising from its use. Redistribution or sale of this code in any form is strictly prohibited.
 
-✨ Thank you for using the bot, hope you earn from my scripts! Good luck! 🚀
-
 <p align="center">
-  <sub>✨ Created by <b>@MeoMunDep</b> | Automation Tools for Airdrop Farmers</sub>
+  <sub>✨ Created by <b>@MeoMunDep</b> | ✨ Thank you for using the bot, hope you earn from my scripts! Good luck! 🚀
+s</sub>
 </p>
-
-<p align="center"><a href="#browsercash-Bot-Setup-Guide">⬆️ Back to top</a></p>
