@@ -228,5 +228,5 @@ docker run -d --name browsercash-container browsercash-image
 
 <p align="center">
   <sub>✨ Created by <b>@MeoMunDep</b> | ✨ Thank you for using the bot, hope you earn from my scripts! Good luck! 🚀
-s</sub>
+</sub>
 </p>
