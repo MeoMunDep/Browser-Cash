@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  browsercash:
+    build:
+      context: .
+    container_name: browsercash
+    restart: unless-stopped
+    volumes:
+      - .:/app
+    environment:
+      - NODE_ENV=production
+    stdin_open: true
+    tty: true
