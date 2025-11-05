@@ -102,9 +102,9 @@ docker run -d --name browsercash-container -v $(pwd)/logs:/app/logs browsercash-
 Your emails and passwords for each accounts
 
 ````txt
-email1:password1
-email2:password2
-email3:password3
+email1|password1|installId1
+email2|password2|installId2
+email3|password3|installId3
 ```
 
 </details>
